@@ -1,5 +1,3 @@
-#InstagramBot
-
 Um bot simples para seguir pessoas no instagram, criado apeanas para testes.
 
 Utilizando o framework "Selenium", criei um bot para entrar em uma conta
